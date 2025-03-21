@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA in C++ and Web Development
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ...
-- Linkin Profile = Aditya Rawat (www.linkedin.com/in/aditya-rawat-6a003532b)
+- Linkedin Profile = Aditya Rawat (www.linkedin.com/in/aditya-rawat-6a003532b)
 - 😄 Pronouns: His
 - ⚡ Fun fact: Nothing 😁
 
